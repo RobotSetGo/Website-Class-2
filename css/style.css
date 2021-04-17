@@ -9,3 +9,7 @@
 .footer-links>li {
     list-style-type: none;
 }
+
+.active {
+    color: black;
+}
