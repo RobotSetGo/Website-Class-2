@@ -13,3 +13,17 @@
 .active {
     color: black;
 }
+
+.classes-title {
+    font-weight: bolder;
+    color: bisque;
+}
+
+.classes-title-container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.classes-list>li {
+    list-style-type: none;
+}
